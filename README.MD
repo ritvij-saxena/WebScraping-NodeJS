@@ -1,9 +1,13 @@
 To run code 
 run the following commands 
 npm install 
+
 npm install cheerio
+
 npm install request
+
 npm install request-promise
+
 npm install cli-table
 
 
@@ -16,6 +20,7 @@ Loading[ { name: 'QuincyLarson', likes_received: 71 },
   { name: 'kerafyrm02', likes_received: 29 },
   { name: 'ieahleen', likes_received: 26 } ]
 ..................................................
+
 
 Data Loaded
 ┌───────────────┬───────────────┐
