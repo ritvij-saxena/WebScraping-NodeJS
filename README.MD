@@ -14,12 +14,14 @@ npm install cli-table
 #Output
 
 node index.js
-Loading[ { name: 'QuincyLarson', likes_received: 71 },
+
+Loading
+[ { name: 'QuincyLarson', likes_received: 71 },
   { name: 'RandellDawson', likes_received: 31 },
   { name: 'Steffan153', likes_received: 30 },
   { name: 'kerafyrm02', likes_received: 29 },
-  { name: 'ieahleen', likes_received: 26 } ]
-..................................................
+    { name: 'ieahleen', likes_received: 26 } ]
+   ..................................................
 
 
 Data Loaded
